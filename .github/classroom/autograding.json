@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "test_1",
+      "setup": "",
+      "run": "sudo ruby 1.rb",
+      "input": "4567",
+      "output": "342",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
