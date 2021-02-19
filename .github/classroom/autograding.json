@@ -16,7 +16,7 @@
       "run": "ruby 2.rb",
       "input": "bgvyzdsv",
       "output": "254575",
-      "comparison": "included",
+      "comparison": "exact",
       "timeout": 10,
       "points": null
     }
